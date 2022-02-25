@@ -1,0 +1,2 @@
+public class paso1 {
+}
